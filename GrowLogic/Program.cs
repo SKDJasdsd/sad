@@ -17,7 +17,7 @@ namespace GrowLogic
         {
             while(true)
             {
-                Thread.Sleep(50);
+                Thread.Sleep(500);
                 do_something();
             }
         }
